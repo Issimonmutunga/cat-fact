@@ -1,0 +1,35 @@
+# Virtual environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment / secret files
+.env
+*.env
+
+# Logs
+*.log
+
+# SQLite / local databases (optional)
+*.sqlite3
+*.db
+
+# Editor / IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build / distribution (if you add packaging later)
+build/
+dist/
+*.egg-info/
