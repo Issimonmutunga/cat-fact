@@ -36,8 +36,8 @@ It demonstrates external API consumption, JSON response formatting, and UTC time
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/<repo>.git
-cd <repo>
+git clone https://github.com/Issimonmutunga/cat-fact.git
+cd cat-fact
 ```
 2. Create a virtual environment and activate it:
 ```bash
