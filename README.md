@@ -5,7 +5,7 @@ It demonstrates external API consumption, JSON response formatting, and UTC time
 
 ---
 
-## 🚀 Features
+## Features
 - Fetches random cat facts from an external API  
 - Returns user profile metadata  
 - Provides current UTC time in ISO 8601 format  
@@ -13,7 +13,7 @@ It demonstrates external API consumption, JSON response formatting, and UTC time
 
 ---
 
-## 🧩 Stack
+## Stack
 - **FastAPI** — web framework  
 - **Python** — runtime  
 - **HTTPX** — async HTTP client  
@@ -23,7 +23,7 @@ It demonstrates external API consumption, JSON response formatting, and UTC time
 
 ---
 
-## 🗂 Project Structure
+## Project Structure
 - task0/
 -   ├── main.py
 -   ├── requirements.txt
