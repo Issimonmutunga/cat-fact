@@ -24,7 +24,7 @@ It demonstrates external API consumption, JSON response formatting, and UTC time
 ---
 
 ## Project Structure
-- task0/
+- HNG
 -   ├── main.py
 -   ├── requirements.txt
 -   └── Procfile
